@@ -1,0 +1,5 @@
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Report.Queue.Consumer\obj\Debug\net6.0\PhoneBook.Report.Queue.Consumer.csproj.AssemblyReference.cache
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Report.Queue.Consumer\obj\Debug\net6.0\PhoneBook.Report.Queue.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Report.Queue.Consumer\obj\Debug\net6.0\PhoneBook.Report.Queue.Consumer.AssemblyInfoInputs.cache
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Report.Queue.Consumer\obj\Debug\net6.0\PhoneBook.Report.Queue.Consumer.AssemblyInfo.cs
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Report.Queue.Consumer\obj\Debug\net6.0\PhoneBook.Report.Queue.Consumer.csproj.CoreCompileInputs.cache

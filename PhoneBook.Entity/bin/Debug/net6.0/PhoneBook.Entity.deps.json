@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PhoneBook.Entity/1.0.0": {
+        "dependencies": {
+          "PhoneBook.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "PhoneBook.Entity.dll": {}
+        }
+      },
+      "PhoneBook.Contracts/1.0.0": {
+        "runtime": {
+          "PhoneBook.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhoneBook.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PhoneBook.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

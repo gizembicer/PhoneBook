@@ -1,0 +1,12 @@
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Contracts\bin\Debug\net6.0\PhoneBook.Contracts.deps.json
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Contracts\bin\Debug\net6.0\PhoneBook.Contracts.dll
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Contracts\bin\Debug\net6.0\PhoneBook.Contracts.pdb
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Contracts\obj\Debug\net6.0\PhoneBook.Contracts.csproj.AssemblyReference.cache
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Contracts\obj\Debug\net6.0\PhoneBook.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Contracts\obj\Debug\net6.0\PhoneBook.Contracts.AssemblyInfoInputs.cache
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Contracts\obj\Debug\net6.0\PhoneBook.Contracts.AssemblyInfo.cs
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Contracts\obj\Debug\net6.0\PhoneBook.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Contracts\obj\Debug\net6.0\PhoneBook.Contracts.dll
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Contracts\obj\Debug\net6.0\refint\PhoneBook.Contracts.dll
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Contracts\obj\Debug\net6.0\PhoneBook.Contracts.pdb
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Contracts\obj\Debug\net6.0\ref\PhoneBook.Contracts.dll

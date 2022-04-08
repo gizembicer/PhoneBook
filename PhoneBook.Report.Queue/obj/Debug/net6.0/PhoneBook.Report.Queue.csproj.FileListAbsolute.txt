@@ -1,0 +1,12 @@
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Report.Queue\obj\Debug\net6.0\PhoneBook.Report.Queue.csproj.AssemblyReference.cache
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Report.Queue\obj\Debug\net6.0\PhoneBook.Report.Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Report.Queue\obj\Debug\net6.0\PhoneBook.Report.Queue.AssemblyInfoInputs.cache
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Report.Queue\obj\Debug\net6.0\PhoneBook.Report.Queue.AssemblyInfo.cs
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Report.Queue\obj\Debug\net6.0\PhoneBook.Report.Queue.csproj.CoreCompileInputs.cache
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Report.Queue\bin\Debug\net6.0\PhoneBook.Report.Queue.deps.json
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Report.Queue\bin\Debug\net6.0\PhoneBook.Report.Queue.dll
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Report.Queue\bin\Debug\net6.0\PhoneBook.Report.Queue.pdb
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Report.Queue\obj\Debug\net6.0\PhoneBook.Report.Queue.dll
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Report.Queue\obj\Debug\net6.0\refint\PhoneBook.Report.Queue.dll
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Report.Queue\obj\Debug\net6.0\PhoneBook.Report.Queue.pdb
+C:\Users\gizem.aydin\source\repos\PhoneBook\PhoneBook.Report.Queue\obj\Debug\net6.0\ref\PhoneBook.Report.Queue.dll

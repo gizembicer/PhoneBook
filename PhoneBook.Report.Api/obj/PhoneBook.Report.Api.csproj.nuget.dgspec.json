@@ -1,0 +1,534 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.Api\\PhoneBook.Report.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Api.BusinessEngine\\PhoneBook.Api.BusinessEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Api.BusinessEngine\\PhoneBook.Api.BusinessEngine.csproj",
+        "projectName": "PhoneBook.Api.BusinessEngine",
+        "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Api.BusinessEngine\\PhoneBook.Api.BusinessEngine.csproj",
+        "packagesPath": "C:\\Users\\gizem.aydin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Api.BusinessEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gizem.aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apsiyon/_packaging/BackendFeed%40Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apsiyon/_packaging/KenjiFeed%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Contracts\\PhoneBook.Contracts.csproj": {
+                "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Contracts\\PhoneBook.Contracts.csproj"
+              },
+              "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Data\\PhoneBook.Data.csproj": {
+                "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Data\\PhoneBook.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Contracts\\PhoneBook.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Contracts\\PhoneBook.Contracts.csproj",
+        "projectName": "PhoneBook.Contracts",
+        "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Contracts\\PhoneBook.Contracts.csproj",
+        "packagesPath": "C:\\Users\\gizem.aydin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gizem.aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apsiyon/_packaging/BackendFeed%40Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apsiyon/_packaging/KenjiFeed%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Data\\PhoneBook.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Data\\PhoneBook.Data.csproj",
+        "projectName": "PhoneBook.Data",
+        "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Data\\PhoneBook.Data.csproj",
+        "packagesPath": "C:\\Users\\gizem.aydin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gizem.aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apsiyon/_packaging/BackendFeed%40Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apsiyon/_packaging/KenjiFeed%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Entity\\PhoneBook.Entity.csproj": {
+                "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Entity\\PhoneBook.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0-preview.2.22153.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0-preview.2.22153.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0-preview.2.22152.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.0-preview.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Entity\\PhoneBook.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Entity\\PhoneBook.Entity.csproj",
+        "projectName": "PhoneBook.Entity",
+        "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Entity\\PhoneBook.Entity.csproj",
+        "packagesPath": "C:\\Users\\gizem.aydin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gizem.aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apsiyon/_packaging/BackendFeed%40Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apsiyon/_packaging/KenjiFeed%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Contracts\\PhoneBook.Contracts.csproj": {
+                "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Contracts\\PhoneBook.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.Api\\PhoneBook.Report.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.Api\\PhoneBook.Report.Api.csproj",
+        "projectName": "PhoneBook.Report.Api",
+        "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.Api\\PhoneBook.Report.Api.csproj",
+        "packagesPath": "C:\\Users\\gizem.aydin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gizem.aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apsiyon/_packaging/BackendFeed%40Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apsiyon/_packaging/KenjiFeed%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Api.BusinessEngine\\PhoneBook.Api.BusinessEngine.csproj": {
+                "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Api.BusinessEngine\\PhoneBook.Api.BusinessEngine.csproj"
+              },
+              "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Data\\PhoneBook.Data.csproj": {
+                "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Data\\PhoneBook.Data.csproj"
+              },
+              "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.BusinessEngine\\PhoneBook.Report.BusinessEngine.csproj": {
+                "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.BusinessEngine\\PhoneBook.Report.BusinessEngine.csproj"
+              },
+              "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.Queue\\PhoneBook.Report.Queue.csproj": {
+                "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.Queue\\PhoneBook.Report.Queue.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.BusinessEngine\\PhoneBook.Report.BusinessEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.BusinessEngine\\PhoneBook.Report.BusinessEngine.csproj",
+        "projectName": "PhoneBook.Report.BusinessEngine",
+        "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.BusinessEngine\\PhoneBook.Report.BusinessEngine.csproj",
+        "packagesPath": "C:\\Users\\gizem.aydin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.BusinessEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gizem.aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apsiyon/_packaging/BackendFeed%40Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apsiyon/_packaging/KenjiFeed%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Contracts\\PhoneBook.Contracts.csproj": {
+                "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Contracts\\PhoneBook.Contracts.csproj"
+              },
+              "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Data\\PhoneBook.Data.csproj": {
+                "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Data\\PhoneBook.Data.csproj"
+              },
+              "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.Queue\\PhoneBook.Report.Queue.csproj": {
+                "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.Queue\\PhoneBook.Report.Queue.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[11.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.Queue\\PhoneBook.Report.Queue.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.Queue\\PhoneBook.Report.Queue.csproj",
+        "projectName": "PhoneBook.Report.Queue",
+        "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.Queue\\PhoneBook.Report.Queue.csproj",
+        "packagesPath": "C:\\Users\\gizem.aydin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Report.Queue\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gizem.aydin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apsiyon/_packaging/BackendFeed%40Local/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/apsiyon/_packaging/KenjiFeed%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Contracts\\PhoneBook.Contracts.csproj": {
+                "projectPath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Contracts\\PhoneBook.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.0.2-develop.421, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0-preview.2.22152.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

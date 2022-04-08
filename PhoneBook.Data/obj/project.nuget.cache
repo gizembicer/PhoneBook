@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "cNtNzj5VSaVBtqgsHHr0qHfQZ10LeYMtKgENe09L6R2VZM5k1L3oELqxT4vSqE17GxIMCzR1Y4kO+YDbIpl4iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gizem.aydin\\source\\repos\\PhoneBook\\PhoneBook.Data\\PhoneBook.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\humanizer.core\\2.13.14\\humanizer.core.2.13.14.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0-preview.2.22153.1\\microsoft.entityframeworkcore.7.0.0-preview.2.22153.1.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0-preview.2.22153.1\\microsoft.entityframeworkcore.abstractions.7.0.0-preview.2.22153.1.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0-preview.2.22153.1\\microsoft.entityframeworkcore.analyzers.7.0.0-preview.2.22153.1.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.0-preview.2.22153.1\\microsoft.entityframeworkcore.design.7.0.0-preview.2.22153.1.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.0-preview.2.22153.1\\microsoft.entityframeworkcore.relational.7.0.0-preview.2.22153.1.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.0-preview.2.22153.1\\microsoft.entityframeworkcore.tools.7.0.0-preview.2.22153.1.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0-preview.2.22152.2\\microsoft.extensions.caching.abstractions.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-preview.2.22152.2\\microsoft.extensions.caching.memory.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0-preview.2.22152.2\\microsoft.extensions.configuration.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0-preview.2.22152.2\\microsoft.extensions.configuration.abstractions.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0-preview.2.22152.2\\microsoft.extensions.dependencyinjection.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-preview.2.22152.2\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0-preview.2.22152.2\\microsoft.extensions.logging.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-preview.2.22152.2\\microsoft.extensions.logging.abstractions.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-preview.2.22152.2\\microsoft.extensions.options.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-preview.2.22152.2\\microsoft.extensions.primitives.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\npgsql\\7.0.0-preview.2\\npgsql.7.0.0-preview.2.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.0-preview.2\\npgsql.entityframeworkcore.postgresql.7.0.0-preview.2.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\system.collections.immutable\\7.0.0-preview.2.22152.2\\system.collections.immutable.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.0-preview.2.22152.2\\system.diagnostics.diagnosticsource.7.0.0-preview.2.22152.2.nupkg.sha512",
+    "C:\\Users\\gizem.aydin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\7.0.0-preview.2.22152.2\\system.runtime.compilerservices.unsafe.7.0.0-preview.2.22152.2.nupkg.sha512"
+  ],
+  "logs": []
+}

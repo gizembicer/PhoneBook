@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PhoneBook.Api.BusinessEngine\PhoneBook.Api.BusinessEngine.csproj" />
+    <ProjectReference Include="..\PhoneBook.Data\PhoneBook.Data.csproj" />
+    <ProjectReference Include="..\PhoneBook.Report.BusinessEngine\PhoneBook.Report.BusinessEngine.csproj" />
+    <ProjectReference Include="..\PhoneBook.Report.Queue\PhoneBook.Report.Queue.csproj" />
+  </ItemGroup>
+
+</Project>
